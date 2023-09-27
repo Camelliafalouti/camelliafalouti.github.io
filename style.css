@@ -1,0 +1,43 @@
+* {
+    background-color:antiquewhite
+}
+
+.corps{
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.grandtitre {
+    text-align: center;
+    font-size : 200%;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    margin-left: auto;
+    text-align: center;
+}
+
+h2{
+    font-style: italic; color: darkgreen;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+img  {
+    width: 400px;
+    border-radius: 30%;
+    margin-left: 5%;
+}
+
+p {
+ width: 1000px;
+ margin-left: 20%;
+ margin-right: 20%;
+ font-size: 20px;
+}
+
